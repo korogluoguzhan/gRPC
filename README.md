@@ -3,7 +3,6 @@
 This project demonstrates a gRPC application showcasing four communication patterns: Unary, Server Streaming, Client Streaming, and Bidirectional Streaming using a customer service example.
 
 ## gRPC Methods
-Here are the default Full Text Search language configurations available in PostgreSQL:
 
 - Unary: Retrieve a single customer by ID (GetCustomer)
 
